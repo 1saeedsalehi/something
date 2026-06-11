@@ -1,4 +1,4 @@
-Hey This is a project called Something!
-It's gonna be awesome!
+!Hey This is a project named Something!
+Replace with a new line
 
 This is a new line!!!!
